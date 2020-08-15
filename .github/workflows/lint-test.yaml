@@ -1,5 +1,6 @@
 name: Lint and Test Charts
 
+# This workflow only runs on pull requests
 on: pull_request
 
 jobs:
